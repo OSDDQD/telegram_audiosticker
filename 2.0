@@ -1,0 +1,5 @@
+You are running composer with xdebug enabled. This has a major impact on runtime performance. See https://getcomposer.org/xdebug
+Using version ^2.1 for irazasyed/telegram-bot-sdk
+./composer.json has been updated
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
